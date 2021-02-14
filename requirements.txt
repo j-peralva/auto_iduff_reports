@@ -1,0 +1,8 @@
+altgraph==0.17
+packaging==20.9
+pyinstaller==4.2
+pyinstaller-hooks-contrib==2020.11
+pyparsing==2.4.7
+selenium==3.141.0
+six==1.15.0
+urllib3==1.26.3
