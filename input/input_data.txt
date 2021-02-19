@@ -1,0 +1,84 @@
+semester=2020-2
+GMA00019 - Cálculo IA - A1 - Professor Name
+GMA00019 - Cálculo IA - B1 - Professor Name
+GMA00019 - Cálculo IA - C1 - Professor Name
+GMA00019 - Cálculo IA - D1 - Professor Name
+GMA00019 - Cálculo IA - E1 - Professor Name
+GMA00019 - Cálculo IA - F1 - Professor Name
+GMA00019 - Cálculo IA - G1 - Professor Name
+GMA00019 - Cálculo IA - H1 - Professor Name
+GMA00019 - Cálculo IA - I1 - Professor Name
+GMA00019 - Cálculo IA - J1 - Professor Name
+GMA00019 - Cálculo IA - K1 - Professor Name
+GMA00019 - Cálculo IA - L1 - Professor Name
+GMA00019 - Cálculo IA - L2 - Professor Name
+GMA00019 - Cálculo IA - M1 - Professor Name
+GMA00019 - Cálculo IA - N1 - Professor Name
+GMA00019 - Cálculo IA - O1 - Professor Name
+GMA00019 - Cálculo IA - P1 - Professor Name
+GMA00019 - Cálculo IA - Q1 - Professor Name
+GMA00019 - Cálculo IA - R1 - Professor Name
+GMA00019 - Cálculo IA - S1 - Professor Name
+GMA00019 - Cálculo IA - T1 - Professor Name
+GMA00019 - Cálculo IA - U1 - Professor Name
+GMA00019 - Cálculo IA - V1 - Professor Name
+GMA00019 - Cálculo IA - X1 - Professor Name
+GMA00021 - Cálculo Ii-A - A1 - Professor Name
+GMA00021 - Cálculo Ii-A - C1 - Professor Name
+GMA00021 - Cálculo Ii-A - D1 - Professor Name
+GMA00021 - Cálculo Ii-A - E1 - Professor Name
+GMA00021 - Cálculo Ii-A - F1 - Professor Name
+GMA00021 - Cálculo Ii-A - G1 - Professor Name
+GMA00021 - Cálculo Ii-A - H1 - Professor Name
+GMA00021 - Cálculo Ii-A - I1 - Professor Name
+GMA00021 - Cálculo Ii-A - J1 - Professor Name
+GMA00021 - Cálculo Ii-A - K1 - Professor Name
+GMA00021 - Cálculo Ii-A - L1 - Professor Name
+GMA00021 - Cálculo Ii-A - L2 - Professor Name
+GMA00021 - Cálculo Ii-A - M1 - Professor Name
+GMA00021 - Cálculo Ii-A - N1 - Professor Name
+GMA00021 - Cálculo Ii-A - O1 - Professor Name
+GMA00022 - Calculo II  -B - A1 - Professor Name
+GMA00022 - Calculo II  -B - C1 - Professor Name
+GMA00022 - Calculo II  -B - D1 - Professor Name
+GMA00022 - Calculo II  -B - E1 - Professor Name
+GMA00022 - Calculo II  -B - F1 - Professor Name
+GMA00022 - Calculo II  -B - G1 - Professor Name
+GMA00022 - Calculo II  -B - H1 - Professor Name
+GMA00022 - Calculo II  -B - I1 - Professor Name
+GMA00022 - Calculo II  -B - J1 - Professor Name
+GMA00022 - Calculo II  -B - K1 - Professor Name
+GMA00022 - Calculo II  -B - L1 - Professor Name
+GMA00022 - Calculo II  -B - L2 - Professor Name
+GMA00022 - Calculo II  -B - M1 - Professor Name
+GMA00023 - Cálculo IIIA - A1 - Professor Name
+GMA00023 - Cálculo IIIA - B1 - Professor Name
+GMA00023 - Cálculo IIIA - C1 - Professor Name
+GMA00023 - Cálculo IIIA - D1 - Professor Name
+GMA00023 - Cálculo IIIA - E1 - Professor Name
+GMA00023 - Cálculo IIIA - F1 - Professor Name
+GMA00023 - Cálculo IIIA - G1 - Professor Name
+GMA00023 - Cálculo IIIA - H1 - Professor Name
+GMA00023 - Cálculo IIIA - I1 - Professor Name
+GMA00024 - Equações Diferenciais - A1 - Professor Name
+GMA00024 - Equações Diferenciais - B1 - Professor Name
+GMA00024 - Equações Diferenciais - C1 - Professor Name
+GMA00024 - Equações Diferenciais - D1 - Professor Name
+GMA00024 - Equações Diferenciais - E1 - Professor Name
+GMA00024 - Equações Diferenciais - F1 - Professor Name
+GMA00024 - Equações Diferenciais - G1 - Professor Name
+GMA00024 - Equações Diferenciais - H1 - Professor Name
+GMA00024 - Equações Diferenciais - I1 - Professor Name
+GMA00031 - Métodos Matemáticos I - A1 - Professor Name
+GMA00031 - Métodos Matemáticos I - B1 - Professor Name
+GMA00031 - Métodos Matemáticos I - B2 - Professor Name
+GMA00149 - Pré-Cálculo - A1 - Professor Name
+GMA00149 - Pré-Cálculo - C1 - Professor Name
+GMA00149 - Pré-Cálculo - D1 - Professor Name
+GMA00149 - Pré-Cálculo - E1 - Professor Name
+GMA00149 - Pré-Cálculo - L1 - Professor Name
+GMA00149 - Pré-Cálculo - L2 - Professor Name
+
+
+
+
