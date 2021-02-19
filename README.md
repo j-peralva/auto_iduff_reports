@@ -12,17 +12,9 @@ Those three departments are independents from each other. Thus, I don't know the
 If you want to help to develop this project, you will need:
 * [Python 3.9.1][python-url];
 * [Firefox Browser][firefox-url];
-* Package selenium for Python;
-```sh
-pip install selenium
-```
 * [geckodriver][geckodriver-url]
+* You can find other requirements in file `requirements.txt`
 
-It is important to note that _geckodriver_ must be added to path of system. To add geckodriver to path, if you are using a Debian-based Linux System, you can do it exporting the path editing _.bashrc_ file, or just moving the driver opening terminal on the same directory that geckodriver is and executing the command below:
-
-```sh
-sudo mv geckodriver /usr/local/bin
-```
 
 ## Release History
 
@@ -31,7 +23,7 @@ sudo mv geckodriver /usr/local/bin
 
 ## Meta
 
-Jefferson Peralva
+Jefferson Peralva Machiqueira
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
