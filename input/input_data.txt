@@ -78,7 +78,3 @@ GMA00149 - Pré-Cálculo - D1 - Professor Name
 GMA00149 - Pré-Cálculo - E1 - Professor Name
 GMA00149 - Pré-Cálculo - L1 - Professor Name
 GMA00149 - Pré-Cálculo - L2 - Professor Name
-
-
-
-
